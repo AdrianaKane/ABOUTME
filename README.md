@@ -1,4 +1,4 @@
-# ABOUTME
+# AdrianaKane
 <img src="https://drive.google.com/file/d/1Y8XHaeIf7oRnIIqIoYSbrNQ09QaFMPHI/view?usp=sharing" width="840" height="200" allow="autoplay">
 <h1 align="center">Hi , I'm Adriana Kane.</h1>
 <h3 align="center">Outcome-oriented data analyst and seasoned collaborator with 3 years of data experience with strong communication and task prioritization skills..</h3>
