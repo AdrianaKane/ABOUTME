@@ -8,7 +8,7 @@
 
 - 📊My **Tableau** Projects are at: [https://public.tableau.com/app/profile/adriana.kane)
 
-- 📧 Email me at: **kadriana2018l@gmail.com**
+- 📧 Email me at: **kadriana2018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
