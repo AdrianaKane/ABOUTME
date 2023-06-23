@@ -1,6 +1,6 @@
 # AdrianaKane
 <img src="https://github.com/AdrianaKane/Portfolio/blob/main/HeaderImage.jpg?raw=true" width="840" height="200" allow="autoplay">
-<h1 align="center">Hi👋, I'm Adriana Kane.</h1>
+<h1 align="center">Welcome👋</h1>
 <h3 align="center">Outcome-oriented data analyst and seasoned collaborator with 3 years of data experience with strong communication and task prioritization skills.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
